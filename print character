@@ -1,0 +1,4 @@
+def greet(name):
+    for char in name:
+        print(f'Letter: {char}')
+greet('Python')
