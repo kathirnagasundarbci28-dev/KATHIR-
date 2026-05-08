@@ -1,0 +1,4 @@
+def greet_9(name):
+    for char in name:
+        print(char)
+greet_9('User')
