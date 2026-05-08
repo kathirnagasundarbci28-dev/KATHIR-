@@ -1,0 +1,4 @@
+def calc_8(x):
+    for i in range(x):
+        print(i * 2)
+calc_8(3)
