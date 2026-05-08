@@ -1,0 +1,5 @@
+def show_list_10():
+    items = ['milk', 'bread']
+    for item in items:
+        print(item)
+show_list_10()
