@@ -1,0 +1,5 @@
+def show_list_6():
+    items = ['banana', 'kiwi']
+    for item in items:
+        print(item)
+show_list_6()
