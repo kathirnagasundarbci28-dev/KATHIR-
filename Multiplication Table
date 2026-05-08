@@ -1,0 +1,4 @@
+def calc(x):
+    for i in range(x):
+        print(i * 5)
+calc(3)
