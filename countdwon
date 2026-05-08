@@ -1,0 +1,5 @@
+def check(n):
+    while n > 0:
+        print(n)
+        n -= 1
+check(2)
