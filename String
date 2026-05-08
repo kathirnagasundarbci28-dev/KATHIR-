@@ -1,0 +1,4 @@
+def greet_5(name):
+    for char in name:
+        print(f'Letter: {char}')
+greet_5('Code')
