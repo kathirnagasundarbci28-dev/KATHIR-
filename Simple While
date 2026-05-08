@@ -1,0 +1,5 @@
+def check_7(n):
+    while n > 0:
+        print(f"Counting: {n}")
+        n -= 1
+check_7(2)
