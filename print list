@@ -1,0 +1,5 @@
+def show_list():
+    items = ['apple', 'pear']
+    for item in items:
+        print(item)
+show_list()
